@@ -23,6 +23,6 @@ It is always better to start developing Ethereum Smart contracts in  [Remix](htt
 
 Go to [Dog Adoption Smart Contract Remix Video](https://youtu.be/mziWxy2k_pE) page
 
-Go to [Dog Adoption description ](https://ashot72.github.io/Nuxt2Forum/index.html) page 
+Go to [Dog Adoption description ](https://ashot72.github.io/solidity-ERC-721--dogadoption-contract/index.html) page 
 
 
