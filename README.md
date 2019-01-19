@@ -12,6 +12,6 @@ Go to [Dog Adoption Smart Contract Remix Video](https://youtu.be/mziWxy2k_pE) pa
 
 Go to [Dog Adoption description ](https://ashot72.github.io/solidity-ERC-721--dogadoption-contract/index.html) page 
 
-Go to [Dog Adoption dApp based on this contract](https://ashot72.github.io/Dog-Adoption-dApp/index.html) page 
+Go to [Dog Adoption dApp based on this contract](https://github.com/Ashot72/Dog-Adoption-dApp) page 
 
 
